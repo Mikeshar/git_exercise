@@ -1,1 +1,1 @@
-some code added!
+always @ (posedge clk)
